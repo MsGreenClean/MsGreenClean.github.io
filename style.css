@@ -1,0 +1,19 @@
+
+body {
+    background-color:#9ac98b;
+}
+#info {
+    padding-top: 50px; 
+    
+    }
+
+
+h1,h2,h3 {
+    font-family: "Verdana", sans-serif;
+    color: #ccb8cc;
+    text-shadow: 1px 2px #4f494f;
+   
+}
+h1{
+    font-size: 75px;
+}
